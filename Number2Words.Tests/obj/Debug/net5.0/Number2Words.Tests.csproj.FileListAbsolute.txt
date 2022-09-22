@@ -1,0 +1,5 @@
+C:\Users\hlehr\desktop\number2words\Number2Words.Tests\obj\Debug\net5.0\Number2Words.Tests.csproj.AssemblyReference.cache
+C:\Users\hlehr\desktop\number2words\Number2Words.Tests\obj\Debug\net5.0\Number2Words.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlehr\desktop\number2words\Number2Words.Tests\obj\Debug\net5.0\Number2Words.Tests.AssemblyInfoInputs.cache
+C:\Users\hlehr\desktop\number2words\Number2Words.Tests\obj\Debug\net5.0\Number2Words.Tests.AssemblyInfo.cs
+C:\Users\hlehr\desktop\number2words\Number2Words.Tests\obj\Debug\net5.0\Number2Words.Tests.csproj.CoreCompileInputs.cache
